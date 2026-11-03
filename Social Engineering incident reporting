@@ -1,0 +1,41 @@
+Social Engineering Incident Reporting Template
+1. Incident Details
+Date of incident:
+Time of incident:
+Location:
+Name of person reporting:
+2. Type of Incident
+Select the type of suspected social engineering attack:
+
+Phishing
+Vishing
+Smishing
+Pretexting
+Baiting
+Tailgating
+Other
+3. Description of Incident
+Describe what happened:
+
+What message, call or activity was received?
+Who was involved?
+What information was requested?
+Were any suspicious links or attachments involved?
+4. Actions Taken
+Was the incident reported?
+Were any links clicked?
+Was any personal information shared?
+Was the IT or cybersecurity team contacted?
+5. Evidence
+List any available evidence:
+
+Email screenshots
+Suspicious phone numbers
+Message screenshots
+Relevant dates and times
+
+6. Follow-Up Actions
+Investigate the incident.
+Secure affected accounts if necessary.
+Inform the relevant security team.
+Provide additional awareness training where appropriate.
